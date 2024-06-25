@@ -241,8 +241,6 @@ public class problema_5_teatro {
         }while(seguir == 0);
     }
 }
-
-//CLASE CUCHA
 class Zona{
     //ATRIBUTOS
     public String nombre;
